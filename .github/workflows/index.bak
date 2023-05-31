@@ -1,0 +1,102 @@
+<html><head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" >
+  
+	<title>YongmingLuo_Homepage</title>
+  
+	<meta name="description" content="website description">
+  
+	<meta name="keywords" content="website keywords, website keywords">
+  
+
+	<link rel="stylesheet" type="text/css" href="./style/style.css">
+
+</head>
+
+
+<body>
+  
+	<div id="main">
+    
+	<div id="header">
+      
+	<div id="logo">
+        
+	<div id="logo_text">
+          
+		<!-- class="logo_colour", allows you to change the colour of the text -->
+          
+		<h1><a href="index.html">Yongming Luo <font size=6 >(&#39038;&#38472;&#29747;)</font></a></h1>
+        
+	</div>
+      	</div>
+      
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li class="selected"><a href="index.html">Home</a></li>
+          
+		<li><a href="research.html">Research</a></li>
+          
+
+        
+		</ul>
+      
+	</div>
+    
+	</div>
+    
+	<div id="site_content">
+      
+	<div id="sidebar_container">
+        
+		<div class="sidebar">
+          
+		
+	<img src="id.jpg" width="222" height="222">          
+         
+		
+	</div>
+        
+        
+      
+	</div>
+      
+	<div id="content">
+        
+	<h2>Welcome to My homepage.</h2>
+
+	<p>
+  My name is Yongming Luo (骆泳铭). I am a mathematician specializing in mathematical analysis.
+  </p>
+
+	
+	<p>
+I obtained my Bachelor and Master degrees in Mathematics from the Technische Universität München. I completed my Ph.D. thesis under the supervision of <a href="https://www.mathematik.uni-kassel.de/~dknees/">Prof. Dr. Dorothee Knees</a> at the Universität Kassel. After that, I worked as a PostDoc with <a href="https://tu-dresden.de/mn/math/wir/neukamm/die-professur/inhaber-in">Prof. Dr. Stefan Neukamm</a> at the Technische Universität Dresden.
+	</p>
+  
+  	<p>
+Since March 2023, I become a Senior Lecturer at the Faculty of Computational Mathematics and Cybernetics of the Shenzhen MSU-BIT University in China. 
+	</p>
+
+
+		
+
+
+ 
+	<h4>Contact</h4>
+             
+	<u2>
+          
+		<li><strong>Address: </strong>International University Park Road 1, Shenzhen, Guangdong, China</li>
+          
+		<li><strong>E-mail: </strong>luo.yongming@smbu.edu.cn</li>
+             
+	</u2>
+	</div>
+	</div>    
+
+
+</div></body></html>
