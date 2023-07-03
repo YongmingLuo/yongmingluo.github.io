@@ -1,6 +1,3 @@
-<h3>Selected papers (<a href="https://yongmingluo.github.io/Publication.pdf"><u>full publication list</u></a>)</h3>
-<ul><font size="4">
-	
 <li style="list-style-type: decimal;">A. Esfahani, H. Hajaiej, Y. Luo and L. Song<br>
 <em>On the focusing fractional nonlinear Schrödinger equation on the waveguide manifolds.</em> <br>
 <a href="https://arxiv.org/abs/2305.19791">[arxiv: 2305.19791]</a></li>
@@ -59,3 +56,43 @@
  <em><a href="https://www.sciencedirect.com/science/article/abs/pii/S0022247X20309653"> Ground states for a nonlocal mixed order cubic-quartic Gross-Pitaevskii equation</a>.</em><br>
   <b>J. Math. Anal. Appl.</b> 496 (2021), no. 1, Paper No. 124802, 20 pp. <br>
 	<a href="https://arxiv.org/abs/1806.00697">[arxiv: 1806.00697]</a> </li>
+
+  <br>
+<details>
+	<summary>Permanent notes</summary>
+
+
+<li style="list-style-type: decimal;">Y. Luo<br>
+  <em>Large data global well-posedness and scattering for the focusing cubic nonlinear Schrödinger equation on $\mathbb{R}^2\times\mathbb{T}$. </em><br>
+  <a href="https://arxiv.org/abs/2202.10219">[arxiv: 2202.10219]</a> </li>
+
+<li style="list-style-type: decimal;">Y. Luo and A. Stylianou<br>
+  <em>Normalized ground states for 3D dipolar Bose-Einstein condensate with attractive three-body interactions.</em><br>
+  <a href="https://arxiv.org/abs/2202.09801">[arxiv: 2202.09801]</a> </li>
+
+<li style="list-style-type: decimal;"> Y. Luo<br>
+  <em>Scattering threshold for radial defocusing-focusing mass-energy double critical nonlinear Schrödinger equation in $d\geq 5$. </em><br>
+  <a href="https://arxiv.org/abs/2106.06993">[arxiv: 2106.06993]</a> </li>
+	</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
