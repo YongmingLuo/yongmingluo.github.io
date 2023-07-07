@@ -1,0 +1,83 @@
+
+
+<html>
+<head>
+<link rel="stylesheet" href="https://yongmingluo.github.io/style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="Sz_lohkinbekvjJDwjFVb8BdkhQ_2lcMYzLaqxH4a-k" />
+<title>Yongming Luo's Homepage</title>
+<style>
+html {background-color:#ebebeb;}
+div {
+	font-size:24px;
+	font-family:Arial, Helvetica, sans-serif;
+    background-color: #daebe3;
+    width: 1000px;
+    margin:auto;
+    border:thin solid #D6DBDF;
+    padding: 20px;    }
+a:link {
+    color: #3440eb;
+    text-decoration: none;}
+a:visited {
+    color: #3440eb;
+    text-decoration: none;}
+a:hover {
+    color: red;
+    text-decoration: underline;}
+h2, h3 {
+    font-weight: 520;
+    color:black;}
+li  {margin: 12px 0;}
+</style>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+tex2jax: {
+inlineMath: [['$','$'], ['\\(','\\)']],
+processEscapes: true
+}
+});
+</script>
+</head>
+
+<body>
+	<div id="menubar">
+        
+		<ul id="menu">
+         
+		<!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          
+		<li ><a href="index.html">Home</a></li>
+          
+          
+		<li ><a href="publications.html">Publications</a></li>
+		
+		<li class="selected"><a href="teaching.html">Teaching</a></li>
+        
+        <li><a href="useful_links.html">Useful links</a></li>
+        
+		</ul>
+      
+	</div>
+<div>
+
+<ul><font size="4">
+	
+<li> <a href="https://arxiv.org"><u>ArXiv</u></a></li>
+
+<li> <a href="https://mathscinet.ams.org/mathscinet"><u>MathScinet</u></a></li>
+
+<li> <a href="https://scholar.google.com"><u>Google Scholar</u></a></li>
+
+<li> <a href="https://www.researchgate.net"><u>Research Gate</u></a></li>
+
+
+
+</font></ul>
+	
+
+<br><br><br><br><br><br>
+</div>   
+
+</body></html>
