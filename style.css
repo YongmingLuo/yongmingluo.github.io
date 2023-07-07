@@ -4,9 +4,9 @@
 
 #menubar
 { height: 46px;
-  width: 950px;
+  width: 1000px;
   margin: 1px auto 0 auto;
-  background: transparent url(tab.png);} 
+  } 
 
 ul#menu
 { float: left;
@@ -25,7 +25,7 @@ ul#menu li a
   height: 27px;
   padding: 12px 28px 5px 22px;
   text-align: center;
-  color: #FFF;
+  color: #0d0d0d;
   border-right: 1px solid #636363;
   text-decoration: none;} 
 
@@ -34,7 +34,7 @@ ul#menu li.tab_selected a
   padding: 6px 28px 5px 22px;}
 
 ul#menu li.selected a, ul#menu li.selected a:hover
-{ color: #ECEF01;}
+{ color: #eb09d8;}
 
 ul#menu li a:hover
-{ color: #ECEF01;}
+{ color: #eb09d8;}
