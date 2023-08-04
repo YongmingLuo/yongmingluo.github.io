@@ -1,3 +1,7 @@
+<li style="list-style-type: decimal;">Y. Luo<br>
+<em>A Legendre-Fenchel identity for the nonlinear Schrödinger equations on $\mathbb{R}^d\times\mathbb{T}^m$: theory and applications.</em> <br>
+<a href="https://arxiv.org/abs/2307.16153">[arxiv: 2307.16153]</a></li>
+
 <li style="list-style-type: decimal;">A. Esfahani, H. Hajaiej, Y. Luo and L. Song<br>
 <em>On the focusing fractional nonlinear Schrödinger equation on the waveguide manifolds.</em> <br>
 <a href="https://arxiv.org/abs/2305.19791">[arxiv: 2305.19791]</a></li>
@@ -28,7 +32,7 @@
 	<a href="https://arxiv.org/abs/2212.10908">[arxiv: 2212.10908]</a> </li>
 
 <li style="list-style-type: decimal;">Y. Luo<br>
-  <em>On long time behavior of the focusing energy-critical NLS on $\mathbb{R}^d\times\mathbb{T}$ via semivirial-vanishing geometry.</em><br>
+  <em><a href="https://www.sciencedirect.com/science/article/pii/S0021782423001010">On long time behavior of the focusing energy-critical NLS on $\mathbb{R}^d\times\mathbb{T}$ via semivirial-vanishing geometry</a>.</em><br>
   <b>J. Math. Pures Appl.</b>, accepted.<br>
 	<a href="https://arxiv.org/abs/2206.07346">[arxiv: 2206.07346]</a> </li>
 
